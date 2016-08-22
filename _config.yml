@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Unsere Services
-    id: 7c32dc3a-5b8b-4a89-90bf-b2fa05f749f5
-    type: content
   - name: Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
     id: 6c472be1-e103-4945-b46c-b54cb8dec89f
     type: content
