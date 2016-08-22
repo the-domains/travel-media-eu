@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -9,17 +10,16 @@ description: >-
   um Ihren Web-Auftritt bekannter zu machen: Wir decken ein breites
   Leistungsspektrum an Online-Marketing ab und setzen Ihre Maßnahmen in einem
   maßgeschneiderten Paket um.
-datePublished: '2016-08-22T21:22:05.020Z'
-dateModified: '2016-08-22T21:22:04.208Z'
+datePublished: '2016-08-22T21:28:28.129Z'
+dateModified: '2016-08-22T21:27:53.778Z'
 title: Unsere Services
 author: []
 via: {}
+sourcePath: _posts/2016-08-22-unsere-services.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-22-unsere-services.md
-url: unsere-services/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Unsere Services
