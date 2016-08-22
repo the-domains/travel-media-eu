@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Unsere Erfahrung für Sie
+    id: fb504c79-ff41-4057-bf7b-6abaaf410219
+    type: content
 favicon: null
 title: Internet Marketing
 description: speziell fürs Reisegeschäft!
