@@ -1,19 +1,4 @@
-name: Travel-Media-EU
-favicon: null
-layout_spectrum: 0.2924831514246762
 typography_spectrum: 0.6973706898279488
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,23 @@ color:
   lightness: 0.8377044978551567
   saturation: 0.7098571388050914
   rhythmicContrast: 0.9003591081127524
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2924831514246762
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Travel-Media-EU
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Unsere Erfahrung '
+    id: a58dda91-e64c-4fd8-8902-ce3795d10950
+    type: content
+favicon: null
 purpose: []
