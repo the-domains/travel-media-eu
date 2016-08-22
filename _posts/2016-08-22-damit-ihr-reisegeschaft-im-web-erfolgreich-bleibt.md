@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
   Die Vorteile Ihres Reiseangebots sollen bei Ihren Kunden ankommen und nicht
   zwischen Ihren Mitbewerbern täglich untergehen. Die Vermarktung von Reisen
   braucht die richtige Mischung aus Emotionalität, Kreativität und Vertrauen. 
-datePublished: '2016-08-22T21:30:30.849Z'
-dateModified: '2016-08-22T21:30:22.545Z'
+datePublished: '2016-08-22T22:03:35.802Z'
+dateModified: '2016-08-22T22:03:35.152Z'
 title: Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
 author: []
 via: {}
@@ -18,7 +17,8 @@ sourcePath: _posts/2016-08-22-damit-ihr-reisegeschaft-im-web-erfolgreich-bleibt.
 authors: []
 publisher: {}
 starred: true
-_type: Blurb
+url: damit-ihr-reisegeschaft-im-web-erfolgreich-bleibt/index.html
+_type: Article
 
 ---
 # Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
