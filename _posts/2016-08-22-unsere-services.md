@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T22:12:54.952Z'
+datePublished: '2016-08-22T22:14:08.341Z'
 sourcePath: _posts/2016-08-22-unsere-services.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T22:12:54.599Z'
+dateModified: '2016-08-22T22:14:07.987Z'
 title: Unsere Services
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ description: >-
   maßgeschneiderten Paket um.
 inLanguage: null
 inNav: true
-starred: false
+starred: true
 url: unsere-services/index.html
 _type: WebPage
 
