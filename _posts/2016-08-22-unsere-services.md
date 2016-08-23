@@ -1,25 +1,25 @@
 ---
-datePublished: '2016-08-23T09:53:15.978Z'
-sourcePath: _posts/2016-08-22-unsere-services.md
-inFeed: false
-authors: []
+inFeed: true
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-23T09:53:09.467Z'
-title: Unsere Services
-publisher: {}
 description: >-
   Eine Webseite, eine Werbekampagne in Suchmaschinen, eine Social Media -Aktion
   um Ihren Web-Auftritt bekannter zu machen: Wir decken ein breites
   Leistungsspektrum an Online-Marketing ab und setzen Ihre Maßnahmen in einem
   maßgeschneiderten Paket um.
-inLanguage: null
-inNav: true
+datePublished: '2016-08-23T09:58:05.078Z'
+dateModified: '2016-08-23T09:56:54.661Z'
+sourcePath: _posts/2016-08-22-unsere-services.md
+author: []
+via: {}
+title: Unsere Services
+authors: []
+publisher: {}
 starred: true
 url: unsere-services/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Unsere Services
