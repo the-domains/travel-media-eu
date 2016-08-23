@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T09:38:12.505Z'
+datePublished: '2016-08-23T09:47:47.928Z'
 sourcePath: _posts/2016-08-22-unsere-services.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T09:38:12.129Z'
+dateModified: '2016-08-23T09:47:47.345Z'
 title: Unsere Services
 publisher: {}
 description: >-
