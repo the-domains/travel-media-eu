@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:05:48.897Z'
+datePublished: '2016-08-25T14:09:58.246Z'
 sourcePath: _posts/2016-08-22-damit-ihr-reisegeschaft-im-web-erfolgreich-bleibt.md
 inFeed: true
 authors: []
@@ -7,10 +7,9 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:05:47.948Z'
+dateModified: '2016-08-25T14:09:57.383Z'
 title: Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
-publisher:
-  name: Fotolia
+publisher: {}
 description: >-
   Die Vorteile Ihres Reiseangebots sollen bei Ihren Kunden ankommen und nicht
   zwischen Ihren Mitbewerbern täglich untergehen. Die Vermarktung von Reisen
