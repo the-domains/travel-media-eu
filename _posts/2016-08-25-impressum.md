@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T14:33:06.353Z'
+datePublished: '2016-08-25T14:36:16.991Z'
 sourcePath: _posts/2016-08-25-impressum.md
 author: []
 via: {}
-dateModified: '2016-08-25T14:33:05.302Z'
+dateModified: '2016-08-25T14:36:15.104Z'
 title: Impressum
 publisher: {}
 description: 'Verantwortlicher für die Inhalte:'
