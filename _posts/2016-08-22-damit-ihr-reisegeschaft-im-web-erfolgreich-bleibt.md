@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:53:47.897Z'
+datePublished: '2016-08-25T14:58:49.118Z'
 sourcePath: _posts/2016-08-22-damit-ihr-reisegeschaft-im-web-erfolgreich-bleibt.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:53:46.679Z'
+dateModified: '2016-08-25T14:58:48.311Z'
 title: Damit Ihr Reiseangebot im Web beim Kunden ankommt!
 publisher: {}
 description: >-
