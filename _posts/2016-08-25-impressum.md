@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-25T14:32:47.736Z'
+datePublished: '2016-08-25T14:33:06.353Z'
 sourcePath: _posts/2016-08-25-impressum.md
 author: []
 via: {}
-dateModified: '2016-08-25T14:32:46.983Z'
+dateModified: '2016-08-25T14:33:05.302Z'
 title: Impressum
 publisher: {}
 description: 'Verantwortlicher für die Inhalte:'
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: impressum/index.html
+_type: Blurb
 
 ---
 # Impressum
