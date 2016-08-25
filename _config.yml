@@ -1,20 +1,20 @@
-typography_spectrum: 0.12725332169793546
+layout_spectrum: 0.05979795171879232
+typography_spectrum: 0.08953262655995786
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.22717278683558106
-  lightness: 0.686409906251356
-  saturation: 0.8791352675762028
-  rhythmicContrast: 0.9952573738992214
+    - '#FFFFFF'
+    - '#5F5E5D'
+    - '#2F9CD4'
+    - '#FF8E01'
+    - '#80D11C'
+  brandStrength: 0.12183423084206879
+  lightness: 0.5505159413442016
+  saturation: 0.667364269727841
+  rhythmicContrast: 0.6233720418531448
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.12763318745419383
 analytics:
   google: null
   facebook: null
