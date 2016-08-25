@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T12:38:36.168Z'
+datePublished: '2016-08-25T13:50:52.313Z'
 sourcePath: _posts/2016-08-22-unsere-erfahrung-ist-der-grundstein-ihres-erfolges.md
 inFeed: true
 authors: []
@@ -7,10 +7,14 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T12:38:35.428Z'
+dateModified: '2016-08-25T13:50:38.691Z'
 title: Unsere Erfahrung ist der Grundstein Ihres Erfolges
 publisher: {}
-description: ' Sie bieten Reisen an oder Sie werben für Reiseziele und möchten die Potenziale des Internet-Marketing und Vertriebs ausschöpfen - wir helfen Ihnen, erfolgreich im Web zu sein. NetWork Travel Marketing entwickelt seit der Gründung Marketinglösungen in den Bereichen Webdesign und E-Commerce.'
+description: >-
+  Sie bieten Reisen an oder Sie werben für Reiseziele und möchten die Potenziale
+  des Internet-Marketing und Vertriebs ausschöpfen - wir helfen Ihnen,
+  erfolgreich im Web zu sein. EU-Travel-Media entwickelt Marketinglösungen in
+  den Bereichen Webdesign, online-Vermarktung und E-Commerce.
 inLanguage: null
 inNav: true
 starred: false
@@ -22,12 +26,22 @@ _type: Article
 
 # Unsere Erfahrung ist der Grundstein Ihres Erfolges
 
-Sie bieten Reisen an oder Sie werben für Reiseziele und möchten die Potenziale des Internet-Marketing und Vertriebs ausschöpfen - wir helfen Ihnen, erfolgreich im Web zu sein. NetWork Travel Marketing entwickelt seit der Gründung Marketinglösungen in den Bereichen Webdesign und E-Commerce.
+Sie bieten Reisen an oder Sie werben für Reiseziele und möchten die Potenziale des Internet-Marketing und Vertriebs ausschöpfen - wir helfen Ihnen, erfolgreich im Web zu sein. EU-Travel-Media entwickelt Marketinglösungen in den Bereichen Webdesign, online-Vermarktung und E-Commerce.
 
 Dabei haben wir es uns zur Aufgabe gemacht, immer wieder mit innovativen und effektiven Ideen die passenden Trends umzusetzen -- damit Sie Ihre Kunden neu gewinnen und langfristig binden können.
 
 # Wir bieten Ihnen an:
 
+Webdesign, Online-Marketing, Social Media: Um eine Webseite erfolgreich zu vermarkten, setzen wir gezielt die jeweils optimalen Maßnahmen ein. Darum decken wir alle wichtigen Disziplinen des modernen Web-Marketings ab und können Ihre Webseite so ganzheitlich, individuell und professionell bekannt machen.  
 Maßgeschneidertes Webdesign, für alle Firmen, die eine Webseite ganz individuell und nach Mass für den Geschäftserfolg erstellen lassen möchten.
 
-Suchmaschinen-Marketing, Suchmaschinen-Optimierung
+Suchmaschinen-Marketing, Suchmaschinen-Optimierung.
+
+**Wir übernehmen sämtliche Arbeitsschritte:**
+
+* Strategie und Konzeption
+* Projektkoordination
+* Kreation
+* Produktion
+* Umsetzung
+* Kontrolle
