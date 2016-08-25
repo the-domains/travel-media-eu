@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:16:29.972Z'
+datePublished: '2016-08-25T14:40:21.715Z'
 sourcePath: _posts/2016-08-22-unsere-services.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:16:29.297Z'
+dateModified: '2016-08-25T14:40:20.997Z'
 title: Unsere Services
 publisher: {}
 description: >-
@@ -23,7 +23,7 @@ url: unsere-services/index.html
 _type: Article
 
 ---
-![Online-Marketing Services für Touristiker](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d23ba323-1ca7-4234-b4fc-10f5eaa92b70.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f3cdd7e-1500-40c7-833b-d5e7416a789e.jpg)
 
 # Unsere Services
 
