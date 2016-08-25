@@ -1,31 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: >-
-  Eine Webseite, eine Werbekampagne in Suchmaschinen, eine Social Media -Aktion
-  um Ihren Web-Auftritt bekannter zu machen: Wir decken ein breites
-  Leistungsspektrum an Online-Marketing ab und setzen Ihre Maßnahmen in einem
-  maßgeschneiderten Paket um.
-datePublished: '2016-08-23T09:58:05.078Z'
-dateModified: '2016-08-23T09:56:54.661Z'
+datePublished: '2016-08-25T14:00:25.403Z'
 sourcePath: _posts/2016-08-22-unsere-services.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-25T14:00:24.758Z'
 title: Unsere Services
-authors: []
 publisher: {}
+description: >-
+  Touristiker verwirklichen Träume. Ihr Reiseangebot wird erfolgreich
+  angenommen, wenn es emotional den Kunden anspricht, Interesse weckt und
+  Vertrauen gewinnt. Alle Aktionen, die Sie im Web starten, müssen diese
+  Merkmale berücksichtigen. Nur so wird Ihre Botschaft in den Millionen von
+  Auftritten in World Wide Web bei Ihrer Zielgruppe richtig ankommen.
+inLanguage: null
+inNav: true
 starred: true
 url: unsere-services/index.html
 _type: Article
 
 ---
+![Online-Marketing Services für Touristiker](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d23ba323-1ca7-4234-b4fc-10f5eaa92b70.jpg)
+
 # Unsere Services
 
-Eine Webseite, eine Werbekampagne in Suchmaschinen, eine Social Media -Aktion um Ihren Web-Auftritt bekannter zu machen: Wir decken ein breites Leistungsspektrum an Online-Marketing ab und setzen Ihre Maßnahmen in einem maßgeschneiderten Paket um.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e4a59f7-c329-4336-b205-52933f542e96.jpg)
+Touristiker verwirklichen Träume. Ihr Reiseangebot wird erfolgreich angenommen, wenn es emotional den Kunden anspricht, Interesse weckt und Vertrauen gewinnt. Alle Aktionen, die Sie im Web starten, müssen diese Merkmale berücksichtigen. Nur so wird Ihre Botschaft in den Millionen von Auftritten in World Wide Web bei Ihrer Zielgruppe richtig ankommen.
+
+Wir haben eine langjährige Erfahrung, sowohl in der Touristik und in Reisegeschäft, als auch im Gestalten und Vermarkten von Reisedienstleistungen im Internet. Wir haben uns als Nichenspezialist vorgenommen, Services zu bieten, die speziell für die Touristiker zugeschnitten sind.
 
 Das ist ein Test wie die Seite reagiert.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e45c0ae-afd9-4755-be7a-1a43193e59e4.jpg)
