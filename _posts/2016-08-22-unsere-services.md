@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:00:25.403Z'
+datePublished: '2016-08-25T14:16:29.972Z'
 sourcePath: _posts/2016-08-22-unsere-services.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:00:24.758Z'
+dateModified: '2016-08-25T14:16:29.297Z'
 title: Unsere Services
 publisher: {}
 description: >-
@@ -31,4 +31,16 @@ Touristiker verwirklichen Träume. Ihr Reiseangebot wird erfolgreich angenommen,
 
 Wir haben eine langjährige Erfahrung, sowohl in der Touristik und in Reisegeschäft, als auch im Gestalten und Vermarkten von Reisedienstleistungen im Internet. Wir haben uns als Nichenspezialist vorgenommen, Services zu bieten, die speziell für die Touristiker zugeschnitten sind.
 
-Das ist ein Test wie die Seite reagiert.
+# Web-Design
+
+Standard Webdesign
+
+Ein Standard-Webdesign ermöglicht relativ schnell einen professionellen Auftritt zu kostengünstigen Konditionen zu gestalten. Auf der Basis von vorgefertigten Vorlagen (sogenannten "Templates") kann eine Webseite schnell und mit geringem Aufwand produziert werden.
+
+Dieser Prozess hat keine Auswirkung auf die Vermarktung der Webseite. Suchmaschinen-Optimierung und Pressearbeit kann bei einem Standard-Webdesign genauso gut angewandt werden wie bei maßgeschneiderten Projekten.
+
+Wenn die Auswahl aus vorgefertigten Vorlagen (Templates) Ihnen nicht genügt oder wenn Sie einen sehr individuellen und unverwechselbaren Auftritt wünschen, welchen keine andere Firma im Web hat, dann ist das maßgeschneiderte Webdesign der richtige Service für Sie.
+
+Massgeschneidertes Webdesign
+
+In diesem Prozess entwickeln wir anhand von Ihren Erwartungen ein Konzept für die Struktur, Navigation und Benutzerfreundlichkeit. Nachdem Sie das Konzept abgenommen haben, entwerfen wir zwei Layouts zur Wahl. Die Webseite wird ganz nach Ihren Wünschen entworfen und programmiert.
