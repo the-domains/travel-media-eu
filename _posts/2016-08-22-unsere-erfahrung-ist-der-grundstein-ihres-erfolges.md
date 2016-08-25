@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:09:20.497Z'
+datePublished: '2016-08-25T14:48:13.070Z'
 sourcePath: _posts/2016-08-22-unsere-erfahrung-ist-der-grundstein-ihres-erfolges.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:09:19.829Z'
+dateModified: '2016-08-25T14:48:12.519Z'
 title: Unsere Erfahrung ist der Grundstein Ihres Erfolges
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ url: unsere-erfahrung-ist-der-grundstein-ihres-erfolges/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a38033f8-51ce-4203-9f76-dc395f4c7a22.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbb30a1d-992b-49cc-8952-28462d3a1d58.jpg)
 
 # Unsere Erfahrung ist der Grundstein Ihres Erfolges
 
