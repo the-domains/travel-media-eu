@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:40:43.389Z'
+datePublished: '2016-08-25T14:53:25.866Z'
 sourcePath: _posts/2016-08-22-damit-ihr-reisegeschaft-im-web-erfolgreich-bleibt.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:40:42.334Z'
-title: Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
+dateModified: '2016-08-25T14:53:25.073Z'
+title: Damit Ihr Reiseangebot im Web beim Kunden ankommt!
 publisher: {}
 description: >-
   Die Vorteile Ihres Reiseangebots sollen bei Ihren Kunden ankommen und nicht
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![Touristiker mit Erfolg im Web](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/321c7ea39e939ffdc08a66488c7b369d/croprotate.jpg?cropheight=272&cropwidth=418&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8b7d28dc-6158-4228-9c72-3034463a8d4b.jpg&x=0&y=8)
 
-# Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
+# Damit Ihr Reiseangebot im Web beim Kunden ankommt!
 
 Die Vorteile Ihres Reiseangebots sollen bei Ihren Kunden ankommen und nicht zwischen Ihren Mitbewerbern täglich untergehen. Die Vermarktung von Reisen braucht die richtige Mischung aus Emotionalität, Kreativität und Vertrauen.
 
