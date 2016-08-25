@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:09:58.246Z'
+datePublished: '2016-08-25T14:40:43.389Z'
 sourcePath: _posts/2016-08-22-damit-ihr-reisegeschaft-im-web-erfolgreich-bleibt.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:09:57.383Z'
+dateModified: '2016-08-25T14:40:42.334Z'
 title: Damit Ihr Reisegeschäft im Web erfolgreich bleibt!
 publisher: {}
 description: >-
@@ -29,5 +29,5 @@ Die Vorteile Ihres Reiseangebots sollen bei Ihren Kunden ankommen und nicht zwis
 
 # Was wir für Sie tun können?
 
-NetWork Travel Marketing setzt mit viel Engagement und Know-how ergebnisbringende Ideen in erfolgreiches Web-Marketing für Touristiker und Reiseanbieter um. Ob eine neue Webseite, eine Suchmaschine-Kampagne, eine Social Media-Aktion: Wir wissen, wie und wo wir Ihre Zielgruppen online erreichen und entwerfen individuelle und innovative Kommunikationslösungen im Internet auf höchstem Niveau und zu fairen Konditionen.
+EU-Travel-Media setzt mit viel Engagement und Know-how ergebnisbringende Ideen in erfolgreiches Web-Marketing für Touristiker und Reiseanbieter um. Ob eine neue Webseite, eine Suchmaschine-Kampagne, eine Social Media-Aktion: Wir wissen, wie und wo wir Ihre Zielgruppen online erreichen und entwerfen individuelle und innovative Kommunikationslösungen im Internet auf höchstem Niveau und zu fairen Konditionen.
 ![Erreichen Sie Ihre Kunden wo Sie gerade sind und Ihre Dienstleistung brauchen!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/391ca011-3e44-4818-9ff5-5304dff06e1e.jpg)
