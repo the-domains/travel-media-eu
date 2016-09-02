@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Guillermo Carrillo Bianchi
+  email: abianchi@network-travelmarketing.de
 name: Travel-Media-EU
 cta:
   domain: null
